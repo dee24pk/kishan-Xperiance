@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Xpiriancepack</string>
+    <string name="title_activity_signup">activity_signup</string>
+    <string name="FullName">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="title_activity_userprofile">userprofile</string>
+    <string name="home">Home</string>
+    <string name="question">Question</string>
+    <string name="notification">Notification</string>
+    <string name="more">MORE</string>
+    <string name="following">Following</string>
+    <string name="activity">Activity</string>
+    <string name="answers">Answers</string>
+    <string name="followers">Followers</string>
+    <string name="xperiance">Xperiance</string>
+    <string name="questions">Questions</string>
+    <string name="follow">+  Follow</string>
+    <string name="lorenIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis venenatis facilisis. Ut eros libero, dictum et eros et, consequat vestibulum lacus. Vestibulum vel lorem non nisi blandit accumsan vel in mauris. Ut blandit leo ac sodales iaculis. Aliquam erat volutpat. Nullam molestie nisi ut efficitur imperdiet. Integer quam massa, ornare et ultricies id, feugiat eget metus. Nullam suscipit porttitor quam a volutpat. Mauris efficitur ullamcorper nunc, nec commodo purus lobortis sit amet</string>
+    <string name="UserInfo">This contains some information about the user visible publicly</string>
+    <string name="username">Mark Zuckurburg</string>
+
+    <string-array name="UserInfo">
+        <item>Timeline</item>
+        <item>Followers</item>
+        <item>Following</item>
+        <item>About You</item>
+        <item>Settings</item>
+    </string-array>
+</resources>
